@@ -12,3 +12,4 @@ print(f'W sumie kupuję {sum} produktów.')
 
 #dowolna zmiana 1
 #dowolna zmiana 2
+# Serdecznie pozdrawiam Mentora ! :)
