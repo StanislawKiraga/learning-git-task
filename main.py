@@ -10,5 +10,3 @@ for value in shopping_list.values():
     sum += len(value)
 print(f'W sumie kupuję {sum} produktów.')
 
-print('Zmiana kodu')
-print('Dodaję commit')
